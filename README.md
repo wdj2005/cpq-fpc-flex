@@ -26,6 +26,17 @@ Front and back 3D renders
 
 ![Back](back-3d.png)
 
+Manufactured PCBs (by JLC PCB)
+![Front](fpc-manufactured-front.png)
+
+![Back](fpc-manufactured-back.png)
+
+## PCB manufacturer profile
+As used with JLC PCB, June 2025:
+
+![PCB Paramters](JLC-PCB-details.png)
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
