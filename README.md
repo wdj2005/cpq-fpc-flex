@@ -6,13 +6,13 @@ Stock part no. is 194635-001 and the Compaq spare part no. is 149588-001
 
 ## Manufacturing
 
-I am yet to prototype this completely, but I will be ordering from JLCPCB with their Flex PCB manufacturing process with the following settings:
+These have been successfully ordered from JLCPCB with their Flex PCB manufacturing process with the following settings:
 * Layers: 1
 * PCB Thickness: 0.11
 * Stiffener: Polyimide
 * Polyimide Thickness: 0.15mm
 
-Once I've got a fab'd item in hand, I'll update this README with photos and such.
+For more manufacturer details see screenshot lower down this file.
 
 ## Photos
 
